@@ -1,96 +1,117 @@
 # Frontend Projects Showcase
 
-Hi, I'm Teguh Rinaldi, a Frontend Developer focused on building web experiences with React, Next.js, and TypeScript.
+Hi, I'm Teguh Rinaldi, a Frontend Developer working mainly with React, Next.js, and TypeScript.
 
-Here you'll find a selection of projects I've developed, from dashboards and web application interfaces to landing pages for different industries. Most projects include a live demo, so you can explore the design, interactions, and overall user experience firsthand.
+This collection brings together a range of frontend projects, from product dashboards and AI workspace concepts to interactive websites for different industries. Each project explores a different way to present information, build user interfaces, and create a more engaging web experience.
 
-Since some of these projects are commercial products, their source code remains in private repositories.
+Most of the source code is kept in private repositories for commercial reasons, but you can explore the live demos below.
 
 ## Featured Projects
 
-### 01. Dashboard & Admin Interfaces
+### 01. Projectly — Project & Team Operations
 
-Dashboard projects built around clear information hierarchy, practical navigation, and reusable interface components.
+A project management dashboard concept focused on organizing work, tracking progress, and bringing team operations into one workspace.
 
-**Highlights**
-- Dashboard layouts and data tables
-- Structured navigation and reusable components
-- Responsive page layouts
-- Consistent UI patterns
-
-**Tech Stack:** React, Next.js, TypeScript, Tailwind CSS
-
-**Live Demo:** [Neural Dashboard](https://neural-dashboardproject.netlify.app/dashboard)
+**Explore:** [Open Projectly Dashboard](https://neural-dashboardproject.netlify.app/dashboard)
 
 ---
 
-### 02. SaaS & Web Application Templates
+### 02. Nexora — AI Workspace
 
-Web application interfaces designed with reusable layouts and flexible UI patterns that can serve as a starting point for different product ideas.
+An AI-powered workspace concept that brings content creation, prompt management, document editing, workflow automation, and usage analytics into one interface.
 
-**Highlights**
-- Application layouts and navigation
-- Reusable frontend components
-- Responsive page structures
-- Consistent interface patterns
-
-**Tech Stack:** React, Next.js, TypeScript, Tailwind CSS
-
-**Live Demo:** [Nexora Dashboard SaaS](https://nexora-dashboardsaas.netlify.app)
+**Explore:** [Open Nexora](https://nexora-dashboardsaas.netlify.app/)
 
 ---
 
-### 03. Landing Pages & Business Websites
+## Interactive Websites & Digital Experiences
 
-A collection of website concepts built for different industries, each with its own visual direction and presentation style.
+### 03. Noire — Contemporary Fine Dining
 
-| Project | Industry | Live Demo |
-|---|---|---|
-| Noire | Dining & Hospitality | [View Demo](https://noire-dining.netlify.app/) |
-| Vanta | Automotive | [View Demo](https://vanta-automotive.netlify.app/) |
-| Forge | Fitness | [View Demo](https://forge-muscle.netlify.app/) |
-| Syntra | Online Education | [View Demo](https://syntra-course.netlify.app/) |
-| Arcana | Architecture | [View Demo](https://arcana-architecture.netlify.app/) |
-| Atelier | Fashion | [View Demo](https://atelier-fashionhouse.netlify.app/) |
-| Azura | Hotel & Hospitality | [View Demo](https://azura-hotel.netlify.app/) |
-| Estatex | Real Estate | [View Demo](https://estatex-realestate.netlify.app/) |
-| Lumora | Grooming | [View Demo](https://lumora-grooming.netlify.app/) |
-| Velora | Creative Studio | [View Demo](https://velora-studioscreative.netlify.app/) |
+A premium dining website concept built around an immersive restaurant experience, with editorial storytelling, menu exploration, and reservation-focused navigation.
 
-These projects explore different visual styles, layouts, and ways of presenting products or services online, with attention to responsive design and the overall browsing experience.
+**Explore:** [Open Noire](https://noire-dining.netlify.app/)
+
+### 04. Vanta — Automotive Experience
+
+A high-end automotive concept featuring a fictional performance vehicle lineup, interactive vehicle views, engineering details, and a vehicle configuration experience.
+
+**Explore:** [Open Vanta](https://vanta-automotive.netlify.app/)
+
+### 05. Forge — Performance Training Studio
+
+A strength and conditioning studio website concept presenting training programs, coaching, studio details, and membership options through a bold visual direction.
+
+**Explore:** [Open Forge](https://forge-muscle.netlify.app/)
+
+### 06. Syntra — Connected Learning Platform
+
+An online learning platform concept built around courses, learning paths, instructors, and the connections between different areas of knowledge.
+
+**Explore:** [Open Syntra](https://syntra-course.netlify.app/)
+
+### 07. Arcana — Architecture & Research
+
+An architecture studio website concept featuring a numbered project archive, architectural studies, material explorations, and a journal documenting design processes.
+
+**Explore:** [Open Arcana](https://arcana-architecture.netlify.app/)
+
+### 08. Atelier — Fashion House
+
+A fashion-focused digital experience exploring garment construction, seasonal collections, material details, and the process behind turning patterns into finished pieces.
+
+**Explore:** [Open Atelier](https://atelier-fashionhouse.netlify.app/)
+
+### 09. Azura — Luxury Resort
+
+A luxury hospitality website concept showcasing resort accommodations, destination experiences, and a visual journey inspired by Bali's coastline.
+
+**Explore:** [Open Azura](https://azura-hotel.netlify.app/)
+
+### 10. Estatex — Real Estate
+
+A real estate website concept focused on curated properties, architectural presentation, property details, and browsing homes by style and atmosphere.
+
+**Explore:** [Open Estatex](https://estatex-realestate.netlify.app/)
+
+### 11. Lumora — Interactive Grooming Studio
+
+A grooming studio concept featuring an interactive haircut configurator, style archive, and a step-by-step experience for exploring different haircut options.
+
+**Explore:** [Open Lumora](https://lumora-grooming.netlify.app/)
+
+### 12. Velora — Creative & Digital Studio
+
+A creative studio website concept combining brand identity, digital experiences, motion-oriented presentation, and an interactive selected-work showcase.
+
+**Explore:** [Open Velora](https://velora-studioscreative.netlify.app/)
+
+---
 
 ## My Approach to Frontend Development
 
-I enjoy turning design concepts into interfaces that feel clear, responsive, and practical to use. Along the way, I pay attention to component structure, maintainability, and the small details that make an interface feel more polished.
+I enjoy building interfaces that are not only visually considered but also responsive and practical to use. I pay attention to layout, component structure, interaction details, and how the experience comes together across different screen sizes.
 
-Depending on the project, my work includes:
-- Building responsive interfaces from design concepts
-- Developing reusable UI components
-- Implementing interactions and frontend functionality
-- Integrating APIs where needed
-- Refining layouts and UI details across screen sizes
+Depending on the project, my work can include:
+- Translating design concepts into responsive interfaces
+- Building reusable UI components
+- Implementing interactive elements and user flows
+- Integrating APIs where required
+- Refining layouts, transitions, and visual details
 
 ## About the Source Code
 
-These projects are part of my independent development work, including templates intended for commercial use. Their source code is kept private, while selected live demos are available here for evaluation.
+These projects are part of my independent commercial development work. Their source code remains in private repositories, while the live demos are available to showcase the interfaces and selected functionality.
 
-The demos focus on showcasing the frontend experience. Some functionality may be limited or use demonstration data, depending on the project.
+Some demos use illustrative content or simulated product data. They are intended to demonstrate frontend design and interaction concepts rather than represent fully operational commercial services.
 
 ## Technologies
 
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- HTML & CSS
-- REST API integration
-
-The exact stack and implementation details vary by project.
+My frontend work primarily involves React, Next.js, TypeScript, JavaScript, HTML, CSS, and Tailwind CSS. The exact technologies and implementation details may vary between projects.
 
 ## More About Me
 
 - **Portfolio:** [666zzz.netlify.app](https://666zzz.netlify.app)
 - **GitHub:** [github.com/teguhrinaldi](https://github.com/teguhrinaldi)
 
-Thanks for taking a look!
+Thanks for taking the time to explore my work.
