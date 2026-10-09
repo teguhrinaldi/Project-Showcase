@@ -37,6 +37,7 @@ Web application templates built with an emphasis on clean interfaces, reusable U
 **Technologies:** React, Next.js, TypeScript, Tailwind CSS
 
 **Live demos:** [Explore the SaaS projects](https://nexora-dashboardsaas.netlify.app)
+**Live demos:** [Explore the dashboard projects](https://nexora-dashboardsaas.netlify.app))
 
 ---
 
