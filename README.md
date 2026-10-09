@@ -36,8 +36,7 @@ Web application templates built with an emphasis on clean interfaces, reusable U
 
 **Technologies:** React, Next.js, TypeScript, Tailwind CSS
 
-**Live demos:** [Explore the SaaS projects](https://nexora-dashboardsaas.netlify.app)
-**Live demos:** [Explore the dashboard projects](https://nexora-dashboardsaas.netlify.app))
+**Live demos:** [Explore the SaaS projects](https://nexora-dashboardsaas.netlify.app))
 
 ---
 
@@ -53,7 +52,17 @@ Frontend projects focused on presenting products and services clearly, with atte
 
 **Technologies:** React, Next.js, TypeScript, Tailwind CSS
 
-**Live demos:** [Explore the website projects](nexora-dashboardsaas.netlify.app)
+**Live demos:** [NOire](https://noire-dining.netlify.app/)
+**Live demos:** [Vanta](https://vanta-automotive.netlify.app/)
+**Live demos:** [Forge](https://forge-muscle.netlify.app/)
+**Live demos:** [Syntra](https://syntra-course.netlify.app/)
+**Live demos:** [Arcana](https://arcana-architecture.netlify.app/)
+**Live demos:** [Atelier](https://atelier-fashionhouse.netlify.app/)
+**Live demos:** [Azura](https://azura-hotel.netlify.app/)
+**Live demos:** [Estatex](https://estatex-realestate.netlify.app/)
+**Live demos:** [Lumora](https://lumora-grooming.netlify.app/)
+**Live demos:** [Velora](https://velora-studioscreative.netlify.app/)
+
 
 ---
 
