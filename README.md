@@ -111,7 +111,8 @@ My frontend work primarily involves React, Next.js, TypeScript, JavaScript, HTML
 
 ## More About Me
 
-- **Portfolio:** [666zzz.netlify.app](https://666zzz.netlify.app)
+- **Portfolio:** [teguhrinaldi.pages.dev](https://teguhrinaldi.pages.dev)
 - **GitHub:** [github.com/teguhrinaldi](https://github.com/teguhrinaldi)
+- **Store:**  [oddlyrinaldi.pages.dev](https://oddlyrinaldi.pages.dev/)
 
 Thanks for taking the time to explore my work.
